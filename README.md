@@ -1,4 +1,4 @@
-# Gestixora 1.0 - piattaforma di ticketing
+# Neuradox 1.0
 
 Un'applicazione Python per la gestione e la rielaborazione di documenti PDF, con interfaccia grafica basata su Tkinter.
 
